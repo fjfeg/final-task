@@ -2,6 +2,8 @@
 "EdTech Solutions" plans to launch a new MOOC (Massive Open Online Courses) platform to provide a wide audience with affordable and high-quality online courses. As part of your test assignment, you need to develop a mini-course on the topic of "Introduction to Machine Learning" for this platform.
 
 # Result
+![image](https://github.com/fjfeg/final-task/assets/153439663/ad0f96e6-c7a0-4ea3-86b9-686d33aed1db)
+
 
 # Presentation
 
@@ -14,4 +16,5 @@
 ![image](https://github.com/fjfeg/final-task/assets/153439663/7dcd9db9-08fb-41da-9c26-6e0e5b7c4b80)
 
 
+ [YouTube video (4 hors) ](https://www.youtube.com/live/mKTeSh2clQs)
 
